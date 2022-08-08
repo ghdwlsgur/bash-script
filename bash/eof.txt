@@ -3,3 +3,4 @@
 "name"
 "is"
 "jinhyeok"
+/bin/zsh

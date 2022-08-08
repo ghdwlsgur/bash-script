@@ -6,4 +6,5 @@ cat > eof.txt << EOF
 "name"
 "is"
 "jinhyeok"
+$(echo "$SHELL")
 EOF
