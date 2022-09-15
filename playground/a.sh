@@ -11,3 +11,5 @@ __log(){
     '.timestamp=$timestamp|.log_level=$log_level|.message=$message' >> logs.log
 }
 __log "INFO" "Hello, World!"
+
+
